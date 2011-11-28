@@ -1,2 +1,5 @@
 this is just a simple jquery tutorial.
 Adding some of my personal comments and updaing some of the 1.3 jQuery code.
+Things to do:
+- add node.js and server.js to the project
+- adding ec2 startup script for ubuntu 10
